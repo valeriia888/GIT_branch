@@ -1,0 +1,18 @@
+ID: 
+Reporter:
+Severity: 
+Priority: 
+Status:
+Product Build:
+Reproducibility: 
+Platform: 
+OS: 
+OS Version: 
+Resolution:
+Summary:
+Description: 
+Steps To Reproduce: 
+Actual result: 
+Expected result:
+Additional Information:
+Attached Files: 
