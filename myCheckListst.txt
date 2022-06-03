@@ -1,0 +1,31 @@
+1. Home page					
+Cart dropdown:
+Add product
+Delete product
+QTY
+Total
+Search
+Test search filters (if present)
+Test search results page
+Test no search results page
+Newsletters subscription
+Subscribe with email the first time - check successful message
+Subscribe with empty field - check validation message
+Subscribe with already subscribed email - check validation message
+2. Sign in					
+Returning Customer
+Validation messages, for required fields:
+Empty fields
+Incorrect email
+Password less than 6 symbols
+Add valid data
+3. Cart
+Full cart:
+Add 1 product
+Add 10+ products
+Change number of items(from 10 to 0)
+Ability to return to the basket and order when the browser is unexpectedly closed
+Remove product(cross, checkbox, QTY=0)
+Update shopping cart
+Continue shopping
+Proceed to Checkout
